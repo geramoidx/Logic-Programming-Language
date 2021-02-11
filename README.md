@@ -1,4 +1,4 @@
 # Logic-Programming-Language
-Small Scripting Language developed to mirror metasyntax of pseudocode algorithms and implementations
+Logic is a small scripting language developed to mirror metasyntax of pseudocode algorithms and implementations. It supports various fundamental programming concepts such as variable-declaration, function calling, conditional statements, loops, proper order of operations, and recursion. The language syntax is meant to be very readable and intuitive: for instance, every function body, conditional statement body, and loop body is wrapped in simple English constructs; loops follow a "from [startingNumber] to [endingNumber] as [variable]" syntax and variable types are loose and not specified upon declaration. Below is the repl link containing the language's EBNF-based grammar, and following that are some examples of programs that the language can run.
 
-**Test Software:** https://bit.ly/2N7yQt7
+**Run Script:** https://bit.ly/2N7yQt7
