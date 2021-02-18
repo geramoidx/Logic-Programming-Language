@@ -27,4 +27,5 @@ let EXPONENT = false;
 let COMMENTARY = false;
 let prevStates = (operatorStates = numberStates = []);
 let prevStateIndex = [];
+
 let prevType = undefined;
